@@ -28,6 +28,7 @@ By reminding my self that:
 3. Do not give up on your self
 
 
+more information found at [info](https://issazuhair.github.io/reading-notes/home_page)
 > **_Biography:_**   
 > Issa Al-aiash
 > Education : Nuclear engineering BSc
