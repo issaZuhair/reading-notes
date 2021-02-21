@@ -1,7 +1,13 @@
 # Growth mindset 
 A **growth mindset** enables one to develope basic qualities like intelligence through dedication and hardwork
 
+It's not always easy to maintain a growth mindset when face with hard challenges, problems, or any other set of circumstances that may slow you down
+
+So here is a few tricks and reminders reminders that keep me on track
+
 ## Growth mindset vs fixed mindset 
+
+![growth vs fixed](https://th.bing.com/th/id/OIP.5ugHiz1Fax-YwCsSEYQwBgHaEC?w=297&h=180&c=7&o=5&dpr=1.25&pid=1.7)
 
 Challange      | Growth             | Fixed
 ------         | -------------------|----------
@@ -17,9 +23,9 @@ By reminding my self that:
 3. Do not give up on your self
 
 > **_Biography:_**   
+> Issa Al-aiash
 > Education : Nuclear engineering BSc
 > 
-
 > LinkedIn : https://www.linkedin.com/in/issa-al-aiash-98b664184/
-
+> 
 > phone : +962797247258
