@@ -20,7 +20,9 @@ too hard       | persist            | quite
 others success | motivated by it    | seen as a threat
 criticism      | learns from it     | ignored  
 
+# how to learn MArkdown
 
+practice practice practice, you can find more information on [markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 # How do I maintain a growth mindset
 By reminding my self that:
 1. No noe made it easy its a straight road to success 
