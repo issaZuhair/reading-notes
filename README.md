@@ -18,6 +18,6 @@ ACP                   |[Add Push Commit](https://issazuhair.github.io/reading-no
 > Issa Al-aiash
 > Education : Nuclear engineering BSc
 > 
-> LinkedIn : https://www.linkedin.com/in/issa-al-aiash-98b664184/
+> LinkedIn :[Issa Al-aiash](https://www.linkedin.com/in/issa-al-aiash-98b664184/)
 > 
 > phone : +962797247258
