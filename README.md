@@ -1,7 +1,7 @@
 
 My name is Issa Al-aiash, a nuclear engineer graduated from **Jordan University of Science and Technology** 
 
-currently learning to be a software developer, moving towards my goals
+currently learning to be a software developer, moving towards my goals [my github](https://github.com/issaZuhair)
 
 # Growth mindset 
 A **growth mindset** enables one to develope basic qualities like intelligence through dedication and hardwork
