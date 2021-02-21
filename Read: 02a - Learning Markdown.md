@@ -27,9 +27,10 @@ the unordered list use the astrisks
 * item
 * item
 
-but how to insert images 
-![github logo](https://www.bing.com/images/search?view=detailV2&ccid=fSJPcHZ9&id=96C31D7FE96E5C7626D444ABE84A0899B2EB3232&thid=OIP.fSJPcHZ9F_C4Sw0an778AgHaBl&mediaurl=https%3a%2f%2fdigitalfellows.commons.gc.cuny.edu%2ffiles%2f2015%2f03%2fgithub_logo-1.png&exph=240&expw=1122&q=github+logo&simid=608016539180335864&ck=29BDCD9FD9723D010AA467D3FD9E74F5&selectedIndex=13&FORM=IRPRST)
+but how to insert images
 
+
+![GitHub logo](https://th.bing.com/th/id/OIP.Mqvv5KhzcLkajdAT3-taCgAAAA?w=280&h=77&c=7&o=5&dpr=1.25&pid=1.7)
 
 how to use blockquotes put a left open triangle or the greater than sign before the quote 
 > We're living the future so
