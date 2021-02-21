@@ -1,26 +1,18 @@
-# Growth mindset 
-A **growth mindset** enables one to develope basic qualities like intelligence through dedication and hardwork
 
-It's not always easy to maintain a growth mindset when face with hard challenges, problems, or any other set of circumstances that may slow you down
+My name is Issa Al-aiash, a nuclear engineer graduated from **Jordan University of Science and Technology** 
 
-So here is a few tricks and reminders reminders that keep me on track
+currently learning to be a software developer, moving towards my goals
 
-## Growth mindset vs fixed mindset 
+# table of contents
 
-![growth vs fixed](https://th.bing.com/th/id/OIP.5ugHiz1Fax-YwCsSEYQwBgHaEC?w=297&h=180&c=7&o=5&dpr=1.25&pid=1.7)
-
-Challange      | Growth             | Fixed
-------         | -------------------|----------
-too hard       | persist            | quite
-others success | motivated by it    | seen as a threat
-criticism      | learns from it     | ignored  
+Topic                 | link
+----------------------|----
+Markdown starter sheet|https://issazuhair.github.io/reading-notes/Read: 02a - Learning Markdown
+Growth mindset        |https://issazuhair.github.io/reading-notes/growth_vs_fixed_mindset
+git and GitHub        |https://issazuhair.github.io/reading-notes/git_and_GitHub
+ACP                   |https://issazuhair.github.io/reading-notes/ACP
 
 
-# How do I maintain a growth mindset
-By reminding my self that:
-1. No noe made it easy its a straight road to success 
-2. The more you learn the easier the journey 
-3. Do not give up on your self
 
 > **_Biography:_**   
 > Issa Al-aiash
