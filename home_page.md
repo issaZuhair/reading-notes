@@ -14,4 +14,5 @@ Markdown starter sheet|[Markdown](https://issazuhair.github.io/reading-notes/Rea
 Growth mindset        |[mindset](https://issazuhair.github.io/reading-notes/growth_vs_fixed_mindset)
 git and GitHub        |[git and GitHub](https://issazuhair.github.io/reading-notes/git_and_GitHub)
 ACP                   |[Add Push Commit](https://issazuhair.github.io/reading-notes/ACP)
-
+HTML                  |[Structure web pages](https://issazuhair.github.io/reading-notes/Read: 03 - Structure web pages with HTML)
+CSS                   |[DESGIN web pages](https://issazuhair.github.io/reading-notes/Read: 06b - Design web pages with CSS)
