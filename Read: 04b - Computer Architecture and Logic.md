@@ -54,3 +54,4 @@ Any thing you take from a computer is an output, sounds, screen videos, 3D print
 
 all the hardware associated with the computer are managed by the CPU, when recieves a pulse it activate a certain circuit inside it
 and the process continues from thier
+
