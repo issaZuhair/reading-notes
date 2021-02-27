@@ -6,7 +6,7 @@ currently learning to be a software developer, moving towards my goals [my githu
 
 Read assignmint # | Title            
 ------            | ----------------
-Read: 01          |[Markdown](https://issazuhair.github.io/reading-notes/class-01)       
+Read: 01          |[class-01](https://issazuhair.github.io/reading-notes/class-01)       
 Read: 02          |No data provided  
 Read: 03          |No data Provided     
 Read: 04          |No data Provided
