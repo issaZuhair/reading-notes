@@ -4,13 +4,32 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home</title>
-  <link rel="stylesheet" href="./css/styles.css">
+  <title>sipset</title>
+  <!-- <link rel="stylesheet" href="./css/styles.css"> -->
   <style>
    #class_heading{
      color:#ADEFD1FF;
      -moz-text-decoration-style:wavy ;
    }
+   li{
+    padding:35px;
+}
+.nav-item{
+    padding:50px;
+    display:inline
+}
+body{
+    background-color:#AE0E36FF;
+}
+a {
+    color:#E69A8DFF;
+    text-decoration:inherit;
+
+}
+a:visited{
+   color:#FAD0C9FF;
+   text-decoration: inherit;
+}
    
   </style>
 </head>
@@ -28,21 +47,36 @@
     <h1 id="class_heading">Class 1 Lab</h1>
     <h2>Its not easy to match colors</h2>
   </main>
-    <p style="color:#6E6E6DFF; background-color:#FAD0C9FF; padding: 35px;display: inline-block;border-radius: 25px;">
-     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et nesciunt ea quia nisi quos tenetur similique deserunt recusandae iusto corrupti est,<br>
-     praesentium aperiam pariatur quod blanditiis! Dolorem nisi soluta non.
+    <p style="color:#6E6E6DFF; background-color:#FAD0C9FF; padding: 35px;border-radius: 25px;border:outset">
+    Whats your name?</p>
+    <p style="color:#FCF6F5FF; background-color:#990011FF; padding: 35px;border-radius: 25px;border:outset">How old are you?
     </p>
-    <p style="color:#FCF6F5FF; background-color:#990011FF; padding: 35px;display: inline-block;border-radius: 25px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam deserunt nesciunt distinctio provident placeat<br>
-      quos quasi ut, inventore architecto sequi hic. Accusantium cupiditate expedita voluptatibus dolorum animi inventore atque ad.</p>
-     <p style="color:#DF6589FF; background-color:#3C1053FF; padding: 35px;display: inline-block;border-radius: 25px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam deserunt nesciunt distinctio provident placeat<br>
-      quos quasi ut, inventore architecto sequi hic. Accusantium cupiditate expedita voluptatibus dolorum animi inventore atque ad.</p>
-     <p style="color:#CE4A7EFF; background-color:#1C1C1BFF; padding: 35px;display: inline-block;border-radius: 25px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam deserunt nesciunt distinctio provident placeat<br>
-      quos quasi ut, inventore architecto sequi hic. Accusantium cupiditate expedita voluptatibus dolorum animi inventore atque ad.</p>
+     <p style="color:#DF6589FF; background-color:#3C1053FF; padding: 35px;border-radius: 25px;border:outset">Where are you from</p>
+     <p style="color:#CE4A7EFF; background-color:#1C1C1BFF; padding: 35px;border-radius: 25px;border:outset">What is your fav color</p>
   <footer>
 
     <div>Copy rights reserved. &copy;</div>
   </footer>
-  <script src="js/app.js"></script>
+  <script>
+    let userName=prompt('Hi\n whats your name?');
+    alert('Hi '+userName)
+    let userAge=prompt('How old are you?');
+    if(userAge<30){
+      alert('your young\n have a wonderfull life')
+    }else{
+      alert('too old');
+    }
+    let userCountry=prompt('Where are you from?');
+    alert('its a beatiful country');
+    let userColor=prompt('what is you favirote color?');
+    alert('thats cute');
+    console.log(userName,userAge,userCountry,userColor);
+    if(userAge<30){
+        alert('Hello '+userName +' from '+userCountry +' you should by a '+userColor + ' rose');
+      }else{
+        alert('What up grandpa '+ userName+ 'I heard you are even older than ' + userCountry +'\n JK we love and will buy you a '+userColor +'rose');
+     }
+    </script>
 
 </body>
 </html>
