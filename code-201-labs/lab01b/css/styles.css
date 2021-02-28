@@ -1,0 +1,19 @@
+li{
+    padding:35px;
+}
+.nav-item{
+    padding:50px;
+    display:inline
+}
+body{
+    background-color:#AE0E36FF;
+}
+a {
+    color:#E69A8DFF;
+    text-decoration:inherit;
+
+}
+a:visited{
+   color:#FAD0C9FF;
+   text-decoration: inherit;
+}
