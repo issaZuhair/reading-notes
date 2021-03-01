@@ -8,7 +8,7 @@ Read assignmint # | Title
 ------            | ----------------
 Read: 01          |[class-01](https://issazuhair.github.io/reading-notes/class-01)       
 Read: 02          |[Read:02](https://issazuhair.github.io/reading-notes/class-01Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions) 
-Read: 03          |No data Provided     
+Read: 03          |[Read:03](https://issazuhair.github.io/reading-notes/Read: 03 - HTML Lists, CSS Boxes, JS Control Flow)   
 Read: 04          |No data Provided
 Read: 05          |No data Provided
 Read: 06          |No data Provided
