@@ -17,7 +17,7 @@ if the picture is not available.
 css provides the ability to control the image size, you simply by saying width is 400 px or height is 150 px.
 
 ```<img src="images/quokka.jpg" alt="A family of
-     quokka" width="600" height="450" />
+     quokka" width="600" height ="450" />
 ```
 ## Placing images
 You can place an image where ever you need to place it in your page, in a paragraph, al a list element. 
