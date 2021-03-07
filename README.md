@@ -11,8 +11,8 @@ Read: 02          |[Read:02](https://issazuhair.github.io/reading-notes/class-01
 Read: 03          |[Read:03](https://issazuhair.github.io/reading-notes/Read: 03 - HTML Lists, CSS Boxes, JS Control Flow)   
 Read: 04          |[Read04](https://issazuhair.github.io/reading-notes/Read: 04 - HTML Links, CSS Layout, JS Functions)
 Read: 05          |[Read05](https://issazuhair.github.io/reading-notes/ Read: 05 - HTML Images; CSS Color & Text)
-Read: 06          |[Read05](https://issazuhair.github.io/reading-notes/ Read: 06 - JS Object Literals; The DOM)
-Read: 07          |No data Provided
+Read: 06          |[Read06](https://issazuhair.github.io/reading-notes/ Read: 06 - JS Object Literals; The DOM)
+Read: 07          |Read07](https://issazuhair.github.io/reading-notes/Read: 07 - HTML Tables; JS Constructor Functions)
 Read: 08          |No data Provided
 Read: 09          |No data Provided
 Read: 10          |No data Provided
