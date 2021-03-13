@@ -16,7 +16,7 @@ Read: 07          |[Read07](https://issazuhair.github.io/reading-notes/Read: 07 
 Read: 08          |[Read08](https://issazuhair.github.io/reading-notes/Read: 08 - More CSS Layout)
 Read: 09          |[Read09](https://issazuhair.github.io/reading-notes/Read: 09 - Forms and Events)
 Read: 10          |[Read10](https://issazuhair.github.io/reading-notes/Read: 10 - JS Debugging)
-Read: 11          |No data Provided
+Read: 11          |[Read11](https://issazuhair.github.io/reading-notes/Read: 11 - Assorted Topics)
 Read: 12          |No data Provided
 Read: 13          |No data Provided
 Read: 14          |No data Provided
