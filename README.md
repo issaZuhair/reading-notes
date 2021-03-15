@@ -17,11 +17,10 @@ Read: 08          |[Read08](https://issazuhair.github.io/reading-notes/Read: 08 
 Read: 09          |[Read09](https://issazuhair.github.io/reading-notes/Read: 09 - Forms and Events)
 Read: 10          |[Read10](https://issazuhair.github.io/reading-notes/Read: 10 - JS Debugging)
 Read: 11          |[Read11](https://issazuhair.github.io/reading-notes/Read: 11 - Assorted Topics)
-Read: 12          |No data Provided
+Read: 12          |[Read12](https://issazuhair.github.io/reading-notes/Read: 12 - Docs for the HTML <canvas> Element & Chart.js)
 Read: 13          |No data Provided
 Read: 14          |No data Provided
 Read: 15          |No data Provided
-
 # Growth mindset 
 A **growth mindset** enables one to develope basic qualities like intelligence through dedication and hardwork
 
