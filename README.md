@@ -18,7 +18,7 @@ Read: 09          |[Read09](https://issazuhair.github.io/reading-notes/Read: 09 
 Read: 10          |[Read10](https://issazuhair.github.io/reading-notes/Read: 10 - JS Debugging)
 Read: 11          |[Read11](https://issazuhair.github.io/reading-notes/Read: 11 - Assorted Topics)
 Read: 12          |[Read12](https://issazuhair.github.io/reading-notes/Read: 12 - Docs for the HTML <canvas> Element & Chart.js)
-Read: 13          |No data Provided
+Read: 13          |[Read13](https://issazuhair.github.io/reading-notes/Read: 13 - Local Storage)
 Read: 14          |No data Provided
 Read: 15          |No data Provided
 
