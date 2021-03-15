@@ -21,6 +21,7 @@ Read: 12          |[Read12](https://issazuhair.github.io/reading-notes/Read: 12 
 Read: 13          |No data Provided
 Read: 14          |No data Provided
 Read: 15          |No data Provided
+
 # Growth mindset 
 A **growth mindset** enables one to develope basic qualities like intelligence through dedication and hardwork
 
